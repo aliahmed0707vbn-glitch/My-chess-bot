@@ -5,7 +5,7 @@ import os
 from telebot import types
 
 # ==========================================
-TOKEN = "8628055657:AAH8@3HemoEmeCUPg8eqV-m_MyWWs6umxlnE"
+TOKEN = "8628055657:AAH8@عباس جيب الفاس3HemoEmeCUPg8eqV-m_MyWWs6umxlnE"
 DB_FILE = "users_database.json"
 LI_DB_FILE = "lichess_database.json"
 # ==========================================
